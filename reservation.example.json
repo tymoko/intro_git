@@ -1,0 +1,11 @@
+{
+  "startUrl": "https://example.com/login",
+  "task": "ログインし、今月の対象レッスン予約ページへ進み、毎月第2火曜日の21:00レッスンを1件だけ予約してください。確認画面があれば内容を確認して確定してください。",
+  "headless": false,
+  "maxSteps": 20,
+  "successIndicators": [
+    "予約完了",
+    "予約が確定しました",
+    "Booked"
+  ]
+}

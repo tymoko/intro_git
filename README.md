@@ -69,3 +69,5 @@ node examples/claude-browser-reservation.js --config your-config.json
 ### 補足
 
 Anthropic公式ドキュメントでは、Claudeのツール利用とComputer Useが案内されています。今回のサンプルは、ローカルPC上で試しやすいように `Claude API + Playwright` の構成にしています。
+
+
